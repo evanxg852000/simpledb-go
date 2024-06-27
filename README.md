@@ -12,7 +12,6 @@ database management system presented in Edward Sciore's book titled
 
 ## References:
 
-- https://github.com/blastrain/vitess-sqlparser
 - https://howqueryengineswork.com/00-introduction.html
 
 
